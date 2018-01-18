@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee');
+
+body {
+	background-color: #96242d;
+	font-family: 'Bungee', cursive;
+	color: white;
+}
+
+h1 {
+	margin: auto auto;
+	width: 50%;
+}
+
+#story {
+	background-color: #f44250;
+	width: 50%;
+	margin: auto auto;
+	padding: 10px;
+	border: 4px solid #bc2f3a;
+	border-radius: 10px;
+}
+
+p {
+	margin: 0;
+}
